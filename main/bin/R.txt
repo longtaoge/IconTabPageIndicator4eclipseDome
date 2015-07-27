@@ -1,0 +1,12 @@
+int attr iconHeight 0x7f010002
+int attr iconWidth 0x7f010001
+int attr tabView 0x7f010000
+int color tab_text_normal 0x7f020000
+int color tab_text_selected 0x7f020001
+int color tab_text_selector 0x7f020002
+int style TabView 0x7f030001
+int style Theme_IndicatorDefault 0x7f030000
+int[] styleable TabView { 0x7f010000, 0x7f010001, 0x7f010002 }
+int styleable TabView_iconHeight 2
+int styleable TabView_iconWidth 1
+int styleable TabView_tabView 0
